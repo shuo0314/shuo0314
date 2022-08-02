@@ -1,6 +1,8 @@
-### Hey there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 <p align="center">
-    <img width="200" src="https://github.com/shuo0314/shuo0314/IMG_4663.PNG">
+    <img width="200" src="https://github.com/shuo0314/shuo0314/blob/main/IMG_4663.PNG">
 </p>
 
 ```python
