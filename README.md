@@ -10,7 +10,6 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Shuo"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
         self.skills = ["Java", "Python", "Data Structure", "Full-stack Web Development", "Database design"]
 
     def say_hi(self):
@@ -20,6 +19,24 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/shuoli314/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://mailto:shuo0314@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  </samp>
+</div>
+</details>
 
 <!--
 **shuo0314/shuo0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
